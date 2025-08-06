@@ -27,6 +27,4 @@ if ( function_exists( 'add_theme_support' ) ) {
  }    
 
 // Habilitar la barra de administración en el frontend
-add_filter('show_admin_bar', '__return_true');
-
-?>
+//add_filter('show_admin_bar', '__return_true');
