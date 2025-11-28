@@ -1,6 +1,6 @@
 <?php
 /*
-Nombre de la plantilla: Archive
+template name: Archive
 */
 get_header(); ?>
 <section ><h1> Category:<?php $current_category = single_cat_title("", true); ?></h1></section>
